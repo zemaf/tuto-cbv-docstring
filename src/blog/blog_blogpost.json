@@ -1,0 +1,42 @@
+[
+  {
+    "title": "3 options de filtre dans l'administration de Django",
+    "slug": "3-options-de-filtre-django",
+    "published": "1",
+    "date": "2020-01-01",
+    "content": "",
+    "description": "Découvre 3 options de filtre de l'administration de Django"
+  },
+  {
+    "title": "Créer un Bot Discord avec Python",
+    "slug": "creer-un-bot-discord-python",
+    "published": "1",
+    "date": "2021-01-15",
+    "content": "",
+    "description": "Apprends à créer un bot Discord avec Python"
+  },
+  {
+    "title": "Le formatage des chaines de caractères",
+    "slug": "le-formatage-chaines",
+    "published": "0",
+    "date": "2021-04-06",
+    "content": "",
+    "description": "Apprends à formater des chaines de caractères"
+  },
+  {
+    "title": "Les bases de Django",
+    "slug": "les-bases-de-django",
+    "published": "0",
+    "date": null,
+    "content": "",
+    "description": "Découvre toutes les bases du framework Django"
+  },
+  {
+    "title": "Les modèles avec Django",
+    "slug": "les-modeles-avec-django",
+    "published": "0",
+    "date": null,
+    "content": "",
+    "description": "Découvre le fonctionnement des modèles avec Django"
+  }
+]
